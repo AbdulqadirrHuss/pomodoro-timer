@@ -1,0 +1,10 @@
+body {
+    background-color: #324a38;
+}
+.time{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 150px;
+    margin-top :10%;
+}
